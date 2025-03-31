@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 26,
-      "end_time": 40,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A person's 20s are usually a time of great change  in education, occupation, relationships, living situations, and other significant experiences marked by age, including turning 21 which is when americans are legally allowed to drink alcohol"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "bda50073-ae70-4c54-9421-7bb12747982f"
-    },
-    {
       "start_time": 27,
       "end_time": 30,
       "annotation": [
