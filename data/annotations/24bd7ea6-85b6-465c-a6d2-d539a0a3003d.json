@@ -84,27 +84,6 @@
       "uuid": "cb843a17-e062-4888-a473-ded3451324e2"
     },
     {
-      "start_time": 12,
-      "end_time": 25,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ages 11 to 19 are marked by a steady cycle of middle school, high school, and possibly the beginning of secondary education"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "3bc0926f-14ad-4e42-a052-6c0fa78234eb"
-    },
-    {
       "start_time": 26,
       "end_time": 40,
       "annotation": [
