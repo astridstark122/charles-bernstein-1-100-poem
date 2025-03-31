@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 30,
-      "end_time": 33,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 23 to 25: back to low volume and quicker crescendo in speed"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "44287081-c0a4-4a7a-98b9-30ad034de6eb"
-    },
-    {
       "start_time": 33,
       "end_time": 34,
       "annotation": [
