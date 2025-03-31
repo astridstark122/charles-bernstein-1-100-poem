@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 131,
-      "end_time": 132,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Pause"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "93b95e7d-4e1e-406f-95b2-05390871e528"
-    },
-    {
       "start_time": 132,
       "end_time": 136,
       "annotation": [
