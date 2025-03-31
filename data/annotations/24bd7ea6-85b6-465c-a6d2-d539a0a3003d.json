@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 46,
-      "end_time": 48,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers -4, -5, -6, -7, -8, -9: speeds up until the last number which is drawn out"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "3c41554f-4444-4f4d-8eb3-e2adc534249c"
-    },
-    {
       "start_time": 49,
       "end_time": 65,
       "annotation": [
