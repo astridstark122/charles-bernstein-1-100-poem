@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 102,
-      "end_time": 105,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 70: loud and screechy"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "efcfcc08-9bbf-4ab9-8402-371fcce015b2"
-    },
-    {
       "start_time": 105,
       "end_time": 131,
       "annotation": [
