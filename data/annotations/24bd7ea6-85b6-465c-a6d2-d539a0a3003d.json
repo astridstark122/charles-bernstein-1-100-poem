@@ -30,31 +30,6 @@
       "uuid": "3c41554f-4444-4f4d-8eb3-e2adc534249c"
     },
     {
-      "start_time": 44,
-      "end_time": 50,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Voices and sounds in the background"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Audience Sounds",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "8b7c0548-e0ea-41e9-abf0-194662214135"
-    },
-    {
       "start_time": 49,
       "end_time": 65,
       "annotation": [
