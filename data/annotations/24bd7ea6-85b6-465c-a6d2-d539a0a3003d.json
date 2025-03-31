@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 64,
-      "end_time": 65,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 49: slightly louder and drawn out"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "396d6412-81e2-4f83-aa2a-4f088482bf1c"
-    },
-    {
       "start_time": 65,
       "end_time": 66,
       "annotation": [
