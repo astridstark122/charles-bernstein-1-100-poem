@@ -22,31 +22,6 @@
       "uuid": "4d50a4c4-6ef2-4a6e-ac2d-6e624647ae82"
     },
     {
-      "start_time": 41,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 30: loud and pronounced"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "04a32281-ada0-47c0-b2fb-17c32931af12"
-    },
-    {
       "start_time": 42,
       "end_time": 44,
       "annotation": [
