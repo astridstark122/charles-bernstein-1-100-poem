@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 65,
-      "end_time": 66,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Pause and faint music in background"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        },
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "ff9545fc-5510-4b28-ac92-25dddf69a8fa"
-    },
-    {
       "start_time": 66,
       "end_time": 86,
       "annotation": [
