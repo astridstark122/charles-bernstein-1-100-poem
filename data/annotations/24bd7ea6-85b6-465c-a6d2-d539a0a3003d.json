@@ -1,43 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 105,
-      "end_time": 131,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 71 to 79: gradually gets louder and drawn out as the last vowel of each word is lengthened"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "93706c2f-1b05-4bc4-a334-8da384c54f97"
-    },
-    {
       "start_time": 131,
       "end_time": 132,
       "annotation": [
