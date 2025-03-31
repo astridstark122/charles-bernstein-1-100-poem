@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 34,
-      "end_time": 41,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Voices in the background"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Audience Sounds",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "113a1dea-031b-4ee4-b1db-4bc87188c799"
-    },
-    {
       "start_time": 35,
       "end_time": 37,
       "annotation": [
