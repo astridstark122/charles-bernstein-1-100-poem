@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 153,
-      "end_time": 156,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 90: shrieking and drawn out"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "9a8c7ad2-5204-4b0b-96d6-3e28793f8286"
-    },
-    {
       "start_time": 156,
       "end_time": 184,
       "annotation": [
