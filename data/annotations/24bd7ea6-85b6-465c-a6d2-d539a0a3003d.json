@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 33,
-      "end_time": 34,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 26: drawn out "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "fa0dc3be-f633-46c5-a819-ce968075f4d8"
-    },
-    {
       "start_time": 34,
       "end_time": 41,
       "annotation": [
