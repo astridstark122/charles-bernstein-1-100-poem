@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 38,
-      "end_time": 40,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 28 to 29: speeds up slightly and then is drawn out"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "3b137191-8152-4312-8cf6-f142f04f6279"
-    },
-    {
       "start_time": 41,
       "end_time": 48,
       "annotation": [
