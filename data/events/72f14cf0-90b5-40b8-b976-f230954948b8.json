@@ -16,13 +16,13 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This is a reading of the poem \"1-100\" by the poet Charles Bernstein. "
+          "text": "This is a reading of the poem \"1-100\" by the poet Charles Bernstein. The annotations are made to be viewed through two options, either by the vocal performance (which can be seen by filtering to just \"Speech\") or in the context of age categories marked by each decade (seen by filtering to \"Context\")."
         }
       ]
     }
   ],
   "created_at": "2025-03-30T23:30:41.045Z",
   "created_by": "astridstark122",
-  "updated_at": "2025-03-30T23:30:41.045Z",
+  "updated_at": "2025-03-31T02:27:48.344Z",
   "updated_by": "astridstark122"
 }
