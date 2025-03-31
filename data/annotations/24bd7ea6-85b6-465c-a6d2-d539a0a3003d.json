@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 61,
-      "end_time": 62,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 48: spoken softly on an exhale"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "2b1fc790-4b50-4afb-be56-9dd3c7bb0e5f"
-    },
-    {
       "start_time": 62,
       "end_time": 64,
       "annotation": [
