@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 52,
-      "end_time": 57,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 41 to 45: back to regular volume and even pace with slight ringing at the end of 42 and 43"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "8d8cf11d-8f80-485c-8127-3e30025d82bf"
-    },
-    {
       "start_time": 57,
       "end_time": 61,
       "annotation": [
