@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 58,
-      "end_time": 60,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 46 to 47: quicker in pace"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "db3d3956-45f2-4170-a7b3-18010e475389"
-    },
-    {
       "start_time": 59,
       "end_time": 61,
       "annotation": [
