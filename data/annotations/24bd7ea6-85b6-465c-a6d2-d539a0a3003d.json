@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 193,
-      "end_time": 195,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Not many people live to be centenarians (age 100), much less survive that 100th year, and a common expression after someone dies is that \"they are no longer suffering\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "432ffb68-6f55-4462-b254-59be5022bb93"
-    },
-    {
       "start_time": 194,
       "end_time": 195,
       "annotation": [
