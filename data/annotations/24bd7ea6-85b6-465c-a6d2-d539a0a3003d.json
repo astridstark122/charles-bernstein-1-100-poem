@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 86,
-      "end_time": 193,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ages 60 to 99 are a time of reflection, developing more physical ailments which often result in chronic pain, experiencing hearing loss, knowing more people who die, and often having extended periods of loneliness"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "9290cbd0-0d8c-4c1b-ab44-34386a86cb8f"
-    },
-    {
       "start_time": 102,
       "end_time": 105,
       "annotation": [
