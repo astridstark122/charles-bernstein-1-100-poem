@@ -1,43 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 148,
-      "end_time": 153,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 88 to 89: screechy and fast until the last number is drawn out"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "f86e9da1-ddf9-42f4-8874-390eed4e2dbb"
-    },
-    {
       "start_time": 153,
       "end_time": 156,
       "annotation": [
