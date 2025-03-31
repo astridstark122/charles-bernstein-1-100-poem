@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 12,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 11 to 20: even and regular in speed and volume"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "465b2713-9e3e-46d1-9ae2-cc664db25490"
-    },
-    {
       "start_time": 26,
       "end_time": 40,
       "annotation": [
