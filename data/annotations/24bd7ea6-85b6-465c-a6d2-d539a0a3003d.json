@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 43,
-      "end_time": 46,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 31, -2, -3: each number is even and drawn out"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "098e62ad-8d9b-4f26-a4d4-aae0bcbbf39e"
-    },
-    {
       "start_time": 46,
       "end_time": 48,
       "annotation": [
