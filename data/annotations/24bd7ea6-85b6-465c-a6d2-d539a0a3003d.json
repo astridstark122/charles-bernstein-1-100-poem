@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 66,
-      "end_time": 86,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A person's 50s are usually filled with changes in close relationships like with children (they may leave the nest) and parents (they may need more assistance or pass away)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "03ddbffb-4e6e-4e98-94ba-2e02744998b5"
-    },
-    {
       "start_time": 76,
       "end_time": 86,
       "annotation": [
