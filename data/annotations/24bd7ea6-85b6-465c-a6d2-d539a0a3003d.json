@@ -1,35 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 194,
-      "end_time": 195,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 100: goes back down to normal volume and duration which matches the beginning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "af7ae78d-9c92-4bde-bb5f-ed2a9a0e43c2"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "72f14cf0-90b5-40b8-b976-f230954948b8",
   "source_id": "dfb17042-c7d8-42db-9243-245daadce6e9"
