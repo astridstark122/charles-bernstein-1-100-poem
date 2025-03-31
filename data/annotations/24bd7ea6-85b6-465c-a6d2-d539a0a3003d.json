@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 184,
-      "end_time": 193,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 99: reaches the loudest and screechiest point and is drawn out until the number fades away in volume"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "18c14823-f13f-4bf1-bca2-ece4e2143870"
-    },
-    {
       "start_time": 193,
       "end_time": 195,
       "annotation": [
