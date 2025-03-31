@@ -55,27 +55,6 @@
       "uuid": "3ac4d0af-f9e6-430d-8d94-7d3b7ab58471"
     },
     {
-      "start_time": 4,
-      "end_time": 12,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ages 1 to 10 span the time of most development for children, including being socialized in elementary school which children usually graduate from at the age of 10 (in grade 5) in the United States"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "6e03324d-6c06-4983-83ca-3bb2397c0528"
-    },
-    {
       "start_time": 12,
       "end_time": 26,
       "annotation": [
