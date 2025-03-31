@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 132,
-      "end_time": 136,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 80 to 82: volume is close to shrieking and numbers are said in quick succession"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "0f612108-604c-45f2-8479-3eeb7cf375ca"
-    },
-    {
       "start_time": 136,
       "end_time": 148,
       "annotation": [
