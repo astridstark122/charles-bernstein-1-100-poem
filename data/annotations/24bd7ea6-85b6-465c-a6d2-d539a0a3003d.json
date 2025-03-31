@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 143,
-      "end_time": 146,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 86: abrupt stop at the end of the number as opposed to the drawn out way the others are said"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "16ad54dc-ffed-4c0e-a83a-50d663a0c640"
-    },
-    {
       "start_time": 148,
       "end_time": 153,
       "annotation": [
