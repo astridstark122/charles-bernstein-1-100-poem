@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 42,
-      "end_time": 44,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Laughter in background"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Audience Sounds",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "2f8ae120-f570-4e0d-8ef8-b75f7d107aac"
-    },
-    {
       "start_time": 43,
       "end_time": 46,
       "annotation": [
