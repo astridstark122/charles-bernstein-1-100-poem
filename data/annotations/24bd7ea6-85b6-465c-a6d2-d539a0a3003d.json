@@ -22,39 +22,6 @@
       "uuid": "9290cbd0-0d8c-4c1b-ab44-34386a86cb8f"
     },
     {
-      "start_time": 86,
-      "end_time": 102,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 61 to 69: crescendo in volume and screechiness and duration at the end of each number"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Duration",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "41d25393-9f8e-43fc-84a5-58da0b193157"
-    },
-    {
       "start_time": 102,
       "end_time": 105,
       "annotation": [
