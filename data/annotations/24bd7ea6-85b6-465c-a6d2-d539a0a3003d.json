@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 136,
-      "end_time": 148,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 83 to 87: screechy shrieking and slows down slightly until each number is said at an even speed"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "ace39473-e1ae-4441-a6ce-516625de345c"
-    },
-    {
       "start_time": 143,
       "end_time": 146,
       "annotation": [
