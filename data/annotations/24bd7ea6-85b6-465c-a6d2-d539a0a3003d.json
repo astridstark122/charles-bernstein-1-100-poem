@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 49,
-      "end_time": 65,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Someone's 40s are also marked by variability, but now through the entrance into mid-life with the potential for a mid-life crisis"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "7f8bf7a2-746e-43ab-bea4-1f911cf6b824"
-    },
-    {
       "start_time": 50,
       "end_time": 52,
       "annotation": [
