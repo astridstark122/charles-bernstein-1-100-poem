@@ -8,35 +8,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Numbers 1 to 10: slow crescendo in both speed and volume"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "16d2dd2c-1b64-434a-8a93-b3d2496480b3"
-    },
-    {
-      "start_time": 4,
-      "end_time": 12,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Ages 1 to 10 span the time of most development for children, including being socialized in elementary school which children usually graduate from at the age of 10 (in grade 5) in the United States"
             }
           ]
