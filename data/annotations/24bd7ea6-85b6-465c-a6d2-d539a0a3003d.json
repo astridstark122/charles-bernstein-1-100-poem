@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 41,
-      "end_time": 48,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A person's 30s are sometimes described as passing by in a blur because of large life events happening in quick succession, like marriage, having children, starting careers and getting promotions, buying a house, etc."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "4d50a4c4-6ef2-4a6e-ac2d-6e624647ae82"
-    },
-    {
       "start_time": 42,
       "end_time": 44,
       "annotation": [
