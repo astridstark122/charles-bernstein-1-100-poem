@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 35,
-      "end_time": 37,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Number 27: loud and pronounced"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "0c4c8386-9efa-479d-9c26-bda84d3a6299"
-    },
-    {
       "start_time": 37,
       "end_time": 38,
       "annotation": [
