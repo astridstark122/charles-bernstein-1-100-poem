@@ -22,27 +22,6 @@
       "uuid": "432ffb68-6f55-4462-b254-59be5022bb93"
     },
     {
-      "start_time": 193,
-      "end_time": 194,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Deep inhale"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "d56f7a74-d667-4f80-95a2-1e0cc6ccc504"
-    },
-    {
       "start_time": 194,
       "end_time": 195,
       "annotation": [
