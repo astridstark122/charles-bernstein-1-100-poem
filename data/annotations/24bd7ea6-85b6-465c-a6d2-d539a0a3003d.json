@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 76,
-      "end_time": 86,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Numbers 55 to 60: each number gets slightly louder with even pauses between"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcript"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "94dfd701-ebc3-484f-ade6-5f90e81c1695"
-    },
-    {
       "start_time": 86,
       "end_time": 193,
       "annotation": [
