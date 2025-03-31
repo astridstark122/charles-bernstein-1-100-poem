@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 1,
-      "end_time": 4,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Rustling and breath"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "68612172-d4ad-4595-8020-4ccbd3b4b9a3"
-    },
-    {
       "start_time": 4,
       "end_time": 12,
       "annotation": [
