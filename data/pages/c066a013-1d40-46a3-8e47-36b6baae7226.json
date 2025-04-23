@@ -12,7 +12,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Bernstein argues that audiotexts are their “own medium” (“Introduction” 10), and that “sound enacts meaning as much as designates something meant” (“Introduction” 17) which he exemplifies in his performance of counting. In the audiotext, the sound of the numbers enacts meaning, not only indicating to the listener that Bernstein is saying a number, but also evoking emotions and feelings. Tom Rice also describes listening as being “shaped by local culture, history, and environment” (101), meaning that perceptions of listening entirely depend on the context of where and when the listening or audio is taking place. Since Charles Bernstein lives in the United States and it can be assumed that this audiotext was recorded there, an American context is implied. With that in mind, counting numbers in ascending order is often associated with the passage of time in Western cultures, as in counting from one to sixty to indicate a minute has passed. It is also used on a larger scale like the passing of years and ages, and particular ages are associated with milestones or life events. "
+          "text": "Bernstein argues that audiotexts are their “own medium” (“Introduction” 10), and that “sound enacts meaning as much as designates something meant” (“Introduction” 17) which he exemplifies in his performance of counting. In the audiotext, the "
+        },
+        {
+          "text": "sound",
+          "italic": true
+        },
+        {
+          "text": " of the numbers enacts meaning, not only indicating to the listener that Bernstein is saying a number, but also evoking emotions and feelings. Tom Rice also describes listening as being “shaped by local culture, history, and environment” (101), meaning that perceptions of listening entirely depend on the context of where and when the listening or audio is taking place. Since Charles Bernstein lives in the United States and it can be assumed that this audiotext was recorded there, an American context is implied. With that in mind, counting numbers in ascending order is often associated with the passage of time in Western cultures, as in counting from one to sixty to indicate a minute has passed. It is also used on a larger scale like the passing of years and ages, and particular ages are associated with milestones or life events. "
         }
       ]
     },
@@ -92,7 +99,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "---. “Introduction.” Close Listening: Poetry and the Performed Word, edited by Charles Bernstein, Oxford University Press, 1998, pp. 3-26. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=728829. "
+          "text": "---. “Introduction.” "
+        },
+        {
+          "text": "Close Listening: Poetry and the Performed Word",
+          "italic": true
+        },
+        {
+          "text": ", edited by Charles Bernstein, Oxford University Press, 1998, pp. 3-26. "
+        },
+        {
+          "text": "ProQuest Ebook Central",
+          "italic": true
+        },
+        {
+          "text": ", http://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=728829. "
         }
       ]
     },
@@ -100,7 +121,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Rathus, Spencer A. et al. HDEV, fourth Canadian edition, Cengage Learning Canada Inc., 2021."
+          "text": "Rathus, Spencer A. et al. "
+        },
+        {
+          "text": "HDEV",
+          "italic": true
+        },
+        {
+          "text": ", fourth Canadian edition, Cengage Learning Canada Inc., 2021."
         }
       ]
     },
@@ -108,7 +136,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Rice, Tom. “Listening.” Keywords in Sound, edited by David Novak and Matt Sakakeeny, Duke University Press, 2015, pp. 99-111. EBSCOhost, https://doi.org/10.1215/9780822375494. "
+          "text": "Rice, Tom. “Listening.” "
+        },
+        {
+          "text": "Keywords in Sound",
+          "italic": true
+        },
+        {
+          "text": ", edited by David Novak and Matt Sakakeeny, Duke University Press, 2015, pp. 99-111. "
+        },
+        {
+          "text": "EBSCOhost",
+          "italic": true
+        },
+        {
+          "text": ", https://doi.org/10.1215/9780822375494. "
         }
       ]
     }
@@ -121,6 +163,6 @@
   "slug": "uncovering-a-lifespan-narrative-in-counting-f",
   "created_at": "2025-04-23T02:30:58.076Z",
   "created_by": "astridstark122",
-  "updated_at": "2025-04-23T02:30:58.076Z",
+  "updated_at": "2025-04-23T02:36:49.156Z",
   "updated_by": "astridstark122"
 }
